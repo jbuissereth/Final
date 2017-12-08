@@ -1,0 +1,95 @@
+/* 
+h1 {
+
+padding-left: 11.5em;
+}
+
+p {
+padding-left: 23em;
+}
+ */
+ 
+ h5 {
+ text-align: center;
+ background: black;
+ color: white;
+ }
+ 
+#menu {
+background:black;
+color: red;
+
+}
+
+#fig-1 {
+ 
+  position: fixed;
+  top: 40%;
+  width: 50%;
+  padding-left: 4em;
+  padding-right: 9em;
+  
+  }
+
+h3 {
+color:white;
+background: white;
+
+}
+
+.col-half {
+  margin-left: 50%;
+  }
+  
+nav ul {
+text-align: center;
+  list-style: none;
+  padding-left: 5;
+  margin:
+  }
+  
+  
+nav a {
+padding: 5em;
+  color:white;
+  text-decoration: none;
+  border-bottom: 
+  
+}
+
+nav a:hover {
+  border-bottom:gold;
+}
+
+/* breakpoints/layout changes/ for wider screens */
+
+@media (min-width: 48em) {
+
+nav ul {
+  /* text-align: center; */
+  }
+
+nav li {
+  display: inline;
+  margin-left: 2em;
+}
+
+nav li:first-child {
+  margin-left: 0;
+}
+	
+}
+
+.visuallyhidden {
+    border: 0;
+    clip: rect(0 0 0 0);
+    -webkit-clip-path: inset(50%);
+    clip-path: inset(50%);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    width: 1px;
+    white-space: nowrap; /* 1 */
+}
