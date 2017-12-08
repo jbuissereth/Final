@@ -24,7 +24,7 @@
   </ul>
 </nav>
 
-<h2>word</h2>
+
 
 <div class="col col-half">
 
@@ -134,7 +134,7 @@ Harper, include the 13th article.</p>
 
 </div>
  
-<h2>word</h2>
+
 
 </body>
 </html>
